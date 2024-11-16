@@ -6,7 +6,7 @@ namespace strings_and_arrays
     {
         static void Main(string[] args)
         {
-            
+
         }
     }
 }
